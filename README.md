@@ -2,7 +2,7 @@
 
 2022-02-23
 
-Locate the brave browser path in macbook to selenium.
+Locate the brave browser path in macbook to selenium. Test with google search.
 
 ## install
 
