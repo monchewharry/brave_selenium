@@ -12,7 +12,6 @@ which chromedriver
 ```
 
 ```
-cd brew install --cask chromedriver
 source ./venv/bin/activate
 python main.py
 ```
